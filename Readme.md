@@ -1,6 +1,6 @@
 # Proyecto Ta-Te-Ti en Python
 
-**Autor:** *Nombre Apellido*
+**Alumno:** *Ariel Cohen*
 
 ## 📌 Descripción
 Este proyecto es una implementación del clásico juego **Ta-Te-Ti** (Tic-Tac-Toe) en Python.  
