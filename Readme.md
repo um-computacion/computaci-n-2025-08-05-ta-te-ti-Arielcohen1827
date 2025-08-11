@@ -20,8 +20,11 @@ python -m unittest discover -s test -p "test_*.py"
 
 ## ▶️ Cómo ejecutar los test individuales
 python -m unittest test.test_jugador
+
 python -m unittest test.test_tablero
+
 python -m unittest test.test_tateti
+
 python -m unittest test.test_cli
 
 
